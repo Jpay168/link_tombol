@@ -1,5 +1,8 @@
 {
-  "primary":"https://japrichat.com/deni_test",
+  "primary":{
+    "name":"Server 1",
+    "link":"https://japrichat.com/deni_test"
+  },
   "data":[
     {"name":"Server  1","link":"https://japrichat.com/deni_test/"},
     {"name":"Server  2","link":"https://japrichat.com/deni_test_two/"}

@@ -1,5 +1,6 @@
-[
-  { "image":"https://raw.githubusercontent.com/Jpay168/link_tombol/main/banner/slider_1.png","link":""},
-  { "image":"https://raw.githubusercontent.com/Jpay168/link_tombol/main/banner/slider_2.png","link":""},
-  { "image":"https://raw.githubusercontent.com/Jpay168/link_tombol/main/banner/slider_3.png","link":""},
-]
+{"data":[
+    { "image":"https://raw.githubusercontent.com/Jpay168/link_tombol/main/banner/slider_1.png","link":""},
+    { "image":"https://raw.githubusercontent.com/Jpay168/link_tombol/main/banner/slider_2.png","link":""},
+    { "image":"https://raw.githubusercontent.com/Jpay168/link_tombol/main/banner/slider_3.png","link":""},
+  ]
+}

@@ -3,37 +3,37 @@
     {
       "code":"QRIS",
       "name":"Scan Q-RIS",
-      "icon":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_flip.png"
+      "icon":"japrishop.online/Logobank/Logo_flip.png"
     },
     {
       "code":"BCA",
       "name":"Transfer Bank BCA",
-      "icon":"https://i.pinimg.com/originals/ed/a9/aa/eda9aabed661a98d62c5df2df6879258.png"
+      "icon":"japrishop.online/Logobank/eda9aabed661a98d62c5df2df6879258.png"
     },
     {
       "code":"BRI",
       "name":"Transfer Bank BRI",
-      "icon":"https://shl.co.id/wp-content/uploads/2022/11/lg-BRI-1.png"
+      "icon":"japrishop.online/Logobank/lg-BRI-1.png"
     },
     {
       "code":"MANDIRI",
       "name":"Transfer Bank MANDIRI",
-      "icon":"https://i.pinimg.com/736x/c9/ae/a3/c9aea346643eb758dd03c11c0d1fa5dd.jpg"
+      "icon":"japrishop.online/Logobank/c9aea346643eb758dd03c11c0d1fa5dd.jpg"
     },
     {
       "code":"DANA",
       "name":"E-Wallet DANA",
-      "icon":"https://i.pinimg.com/originals/f5/8c/a3/f58ca3528b238877e9855fcac1daa328.jpg"
+      "icon":"japrishop.online/Logobank/f58ca3528b238877e9855fcac1daa328.jpg"
     },
     {
       "code":"OVO",
       "name":"E-Wallet OVO",
-      "icon":"https://cdn.kibrispdr.org/data/111/download-logo-ovo-png-11.png"
+      "icon":"japrishop.online/Logobank/download-logo-ovo-png-11.png"
     },
     {
       "code":"GOPAY",
       "name":"E-Wallet GOPAY",
-      "icon":"https://digitu.my.id/images/produk/ewallet/gopay-besar-210-ljoo.png"
+      "icon":"japrishop.online/Logobank/gopay-besar-210-ljoo.png"
     }
   ]
 }

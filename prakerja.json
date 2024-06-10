@@ -2,20 +2,20 @@
   "status":1,
   "data": [
     {
-      "title": "Titile Pembelajaran Mandiri",
-      "category": "Pembelajaran Mandiri",
+      "title": "Bahasa Inggris Untuk Secretary",
+      "category": "Pembelajaran Offline",
       "link": "https://japrime.id",
       "image": "https://greatmind.id/uploads/article-detail/aa09df7d4e6299e78f49d000725644ffbaf7079e.jpg",
-      "price": "1000000",
+      "price": "1500000",
       "available": "true",
-      "due_date": "30 Juni 2024"
+      "due_date": "25 Agustus 2024"
     },
     {
-      "title": "Titile Pembelajaran Mandiri",
-      "category": "Pembelajaran Mandiri",
+      "title": "Paket Balajar Digital Marketing",
+      "category": "Pembelajaran Online",
       "link": "https://japrime.id",
       "image": "https://smkn5batam.sch.id/wp-content/uploads/2021/04/a1.png",
-      "price": "1200000",
+      "price": "1500000",
       "available": "true",
       "due_date": "30 Juni 2024"
     }

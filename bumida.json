@@ -1,0 +1,50 @@
+{
+  "status":1,
+  "data": [
+    {
+      "title": "Siswa Koe",
+      "category": "Paket Koe",
+      "link": "https://japrime.id",
+      "image": "https://www.bumida.co.id/storage/img/siswakoe-1590867094.jpg",
+      "price": "20000",
+      "available": "true",
+      "due_date": "25 Agustus 2024"
+    },
+    {
+      "title": "Karyawan Koe",
+      "category": "Paket Koe",
+      "link": "https://japrime.id",
+      "image": "https://www.bumida.co.id/storage/img/karyawankoe-1590989777.jpg",
+      "price": "150000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    },
+    {
+      "title": "Sehat Koe",
+      "category": "Paket Koe",
+      "link": "https://japrime.id",
+      "image": "https://www.bumida.co.id/storage/img/sehatkoe-1590990107.jpg",
+      "price": "75000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    },
+    {
+      "title": "Rumah Koe",
+      "category": "Paket Koe",
+      "link": "https://japrime.id",
+      "image": "https://www.bumida.co.id/storage/img/rumahkoe-1590989915.jpg",
+      "price": "75000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    },
+    {
+      "title": "Motor Koe",
+      "category": "Paket Koe",
+      "link": "https://japrime.id",
+      "image": "https://www.bumida.co.id/storage/img/motorkoe-1590866928.jpg",
+      "price": "65000",
+      "available": "true",
+      "due_date": "30 Juni 2024"
+    }
+  ]
+}
